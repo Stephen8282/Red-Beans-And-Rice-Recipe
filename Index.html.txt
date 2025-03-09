@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Beans and Rice Recipe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #a52a2a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            text-align: center;
+            background-color: #800000;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h2 {
+            color: #a52a2a;
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #a52a2a;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Red Beans and Rice Recipe
+    </header>
+    <nav>
+        <a href="#ingredients">Ingredients</a>
+        <a href="#instructions">Instructions</a>
+        <a href="#tips">Tips</a>
+    </nav>
+    <div class="container">
+        <h2 id="ingredients">Ingredients</h2>
+        <ul>
+            <li>1 lb red beans</li>
+            <li>1 onion, chopped</li>
+            <li>1 bell pepper, chopped</li>
+            <li>3 cloves garlic, minced</li>
+            <li>1 lb smoked sausage, sliced</li>
+            <li>6 cups water</li>
+            <li>2 bay leaves</li>
+            <li>Salt and pepper to taste</li>
+            <li>Cooked white rice</li>
+        </ul>
+        <h2 id="instructions">Instructions</h2>
+        <ol>
+            <li>Soak the beans overnight in water.</li>
+            <img src="step1.jpg" alt="Soaking red beans overnight">
+            <li>In a large pot, sauté onion, bell pepper, and garlic.</li>
+            <img src="step2.jpg" alt="Sautéing onion, bell pepper, and garlic in a pot">
+            <li>Add the sliced sausage and cook for a few minutes.</li>
+            <img src="step3.jpg" alt="Adding sausage to the pot">
+            <li>Drain and rinse the soaked beans, then add them to the pot.</li>
+            <img src="step4.jpg" alt="Adding red beans to the pot">
+            <li>Pour in water, add bay leaves, salt, and pepper.</li>
+            <img src="step5.jpg" alt="Adding water and bay leaves to the pot">
+            <li>Simmer for about 2 hours, stirring occasionally.</li>
+            <img src="step6.jpg" alt="Simmering beans on the stove">
+            <li>Serve over cooked white rice and enjoy!</li>
+            <img src="step7.jpg" alt="Final dish of red beans and rice">
+        </ol>
+        <h2 id="tips">Tips</h2>
+        <p>For extra flavor, consider adding a smoked ham hock or Andouille sausage.</p>
+    </div>
+    <div class="footer">
+        &copy; 2025 Red Beans and Rice Recipe
+    </div>
+</body>
+</html>
